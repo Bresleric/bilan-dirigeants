@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "saved": "2026-03-23T01:22:39.192Z",
-  "lastAuthor": "Valerie",
+  "saved": "2026-03-23T01:49:18.192Z",
+  "lastAuthor": "Eric",
   "data": {
     "matthieu": {
       "note": "Test appréciation générale pour voir si ça marche : À voir\n",
@@ -9,7 +9,7 @@
         "satisfaction": [
           {
             "id": "mn2gp3v68ji1r",
-            "text": "Semble avoir une bonne connaissance de l’organisation d’une cuisine et brasserie",
+            "text": "Semble avoir une bonne connaissance de lâorganisation dâune cuisine et brasserie",
             "date": "2026-03-23",
             "severity": "medium",
             "author": "Eric",
@@ -21,7 +21,7 @@
         "insatisfaction": [
           {
             "id": "mn2gptj5uskny",
-            "text": "Décollage au quart de tour",
+            "text": "DÃ©collage au quart de tour",
             "date": "2026-03-23",
             "severity": "medium",
             "author": "Eric",
@@ -31,7 +31,7 @@
         "conflits": [
           {
             "id": "mn2gsxaghjs6z",
-            "text": "Été 2025 : Grosse tension « Virez moi » ETC…",
+            "text": "ÃtÃ© 2025 : Grosse tension Â«Â Virez moiÂ Â» ETCâ¦",
             "date": "2026-03-23",
             "severity": "medium",
             "author": "Eric",
@@ -39,7 +39,7 @@
           },
           {
             "id": "mn2h8nkp1i2ly",
-            "text": "CGT : On ne peut pas faire appel à un syndicat pour régler des problèmes relationnels internes",
+            "text": "CGT : On ne peut pas faire appel Ã  un syndicat pour rÃ©gler des problÃ¨mes relationnels internes",
             "date": "2026-03-23",
             "severity": "medium",
             "author": "Eric",
@@ -56,7 +56,16 @@
             "createdAt": "2026-03-23T01:04:41.000Z"
           }
         ],
-        "evolution": [],
+        "evolution": [
+          {
+            "id": "mn2hm0nhad581",
+            "text": "Management?",
+            "date": "2026-03-23",
+            "severity": "medium",
+            "author": "Eric",
+            "createdAt": "2026-03-23T01:08:36.941Z"
+          }
+        ],
         "incidents": [],
         "relationnel": [],
         "divers": []
@@ -91,7 +100,7 @@
         "insatisfaction": [
           {
             "id": "mn2higtfqm2ua",
-            "text": "Régularité - Rythme",
+            "text": "RÃ©gularitÃ© - Rythme",
             "date": "2026-03-23",
             "severity": "medium",
             "author": "Valerie",
@@ -253,7 +262,18 @@
       "note": "",
       "entries": {
         "satisfaction": [],
-        "insatisfaction": [],
+        "insatisfaction": [
+          {
+            "id": "mn2hppjpkiexy",
+            "text": "Travail en équipe!!!",
+            "date": "2026-03-23",
+            "severity": "medium",
+            "author": "Eric",
+            "createdAt": "2026-03-23T01:11:29.173Z",
+            "modifiedBy": "Eric",
+            "modifiedAt": "2026-03-23T01:49:16.191Z"
+          }
+        ],
         "conflits": [],
         "absences": [],
         "evolution": [],
