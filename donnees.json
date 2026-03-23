@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "saved": "2026-03-23T03:21:45.921Z",
+  "saved": "2026-03-23T03:22:30.313Z",
   "lastAuthor": "Eric",
   "data": {
     "matthieu": {
@@ -41,11 +41,13 @@
           },
           {
             "id": "mn2h8nkp1i2ly",
-            "text": "CGT : On ne peut pas faire appel Ã  un syndicat pour rÃ©gler des problÃ¨mes relationnels internes",
+            "text": "CGT : On ne peut pas faire appel à  un syndicat pour régler des problèmes relationnels internes",
             "date": "2026-03-23",
             "severity": "medium",
             "author": "Eric",
-            "createdAt": "2026-03-23T00:58:13.465Z"
+            "createdAt": "2026-03-23T00:58:13.465Z",
+            "modifiedBy": "Eric",
+            "modifiedAt": "2026-03-23T03:22:28.312Z"
           }
         ],
         "absences": [
