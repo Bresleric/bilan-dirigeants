@@ -1,14 +1,49 @@
 {
   "version": 1,
-  "saved": "2026-03-23T01:04:43.002Z",
-  "lastAuthor": "Eric",
+  "saved": "2026-03-23T01:22:06.028Z",
+  "lastAuthor": "Valerie",
   "data": {
     "matthieu": {
-      "note": "",
+      "note": "Test appréciation générale pour voir si ça marche : À voir",
       "entries": {
-        "satisfaction": [],
-        "insatisfaction": [],
-        "conflits": [],
+        "satisfaction": [
+          {
+            "id": "mn2gp3v68ji1r",
+            "text": "Semble avoir une bonne connaissance de l’organisation d’une cuisine",
+            "date": "2026-03-23",
+            "severity": "medium",
+            "author": "Eric",
+            "createdAt": "2026-03-23T00:43:01.458Z"
+          }
+        ],
+        "insatisfaction": [
+          {
+            "id": "mn2gptj5uskny",
+            "text": "Décollage au quart de tour",
+            "date": "2026-03-23",
+            "severity": "medium",
+            "author": "Eric",
+            "createdAt": "2026-03-23T00:43:34.721Z"
+          }
+        ],
+        "conflits": [
+          {
+            "id": "mn2gsxaghjs6z",
+            "text": "Été 2025 : Grosse tension « Virez moi » ETC…",
+            "date": "2026-03-23",
+            "severity": "medium",
+            "author": "Eric",
+            "createdAt": "2026-03-23T00:45:59.560Z"
+          },
+          {
+            "id": "mn2h8nkp1i2ly",
+            "text": "CGT : On ne peut pas faire appel à un syndicat pour régler des problèmes relationnels internes",
+            "date": "2026-03-23",
+            "severity": "medium",
+            "author": "Eric",
+            "createdAt": "2026-03-23T00:58:13.465Z"
+          }
+        ],
         "absences": [
           {
             "id": "mn2hgyljijeok",
@@ -29,7 +64,16 @@
       "note": "",
       "entries": {
         "satisfaction": [],
-        "insatisfaction": [],
+        "insatisfaction": [
+          {
+            "id": "mn2hfek69lv34",
+            "text": "Interrogation sur connaissances techniques",
+            "date": "2026-03-23",
+            "severity": "medium",
+            "author": "Valerie",
+            "createdAt": "2026-03-23T01:03:28.374Z"
+          }
+        ],
         "conflits": [],
         "absences": [],
         "evolution": [],
@@ -42,7 +86,16 @@
       "note": "",
       "entries": {
         "satisfaction": [],
-        "insatisfaction": [],
+        "insatisfaction": [
+          {
+            "id": "mn2higtfqm2ua",
+            "text": "Régularité - Rythme",
+            "date": "2026-03-23",
+            "severity": "medium",
+            "author": "Valerie",
+            "createdAt": "2026-03-23T01:05:51.267Z"
+          }
+        ],
         "conflits": [],
         "absences": [],
         "evolution": [],
