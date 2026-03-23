@@ -1,0 +1,250 @@
+{
+  "version": 1,
+  "saved": "2026-03-23T01:04:43.002Z",
+  "lastAuthor": "Eric",
+  "data": {
+    "matthieu": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [
+          {
+            "id": "mn2hgyljijeok",
+            "text": "pas d'arrets",
+            "date": "2026-03-23",
+            "severity": "medium",
+            "author": "Eric",
+            "createdAt": "2026-03-23T01:04:41.000Z"
+          }
+        ],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "johnny": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "eve": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "jean": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "clara": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "laszlo": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "virgine": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "annesophie": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "davic": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "martine": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "marine": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "mathilde": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "francesca": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "camille": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "emilienne": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "mario": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "laurence": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    },
+    "charlotte": {
+      "note": "",
+      "entries": {
+        "satisfaction": [],
+        "insatisfaction": [],
+        "conflits": [],
+        "absences": [],
+        "evolution": [],
+        "incidents": [],
+        "relationnel": [],
+        "divers": []
+      }
+    }
+  }
+}
