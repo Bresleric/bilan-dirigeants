@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "saved": "2026-03-23T01:49:18.192Z",
+  "saved": "2026-03-23T03:21:34.688Z",
   "lastAuthor": "Eric",
   "data": {
     "matthieu": {
@@ -9,13 +9,13 @@
         "satisfaction": [
           {
             "id": "mn2gp3v68ji1r",
-            "text": "Semble avoir une bonne connaissance de lâorganisation dâune cuisine et brasserie",
+            "text": "Semble avoir une bonne connaissance de l'organisation d'une cuisine et brasserie",
             "date": "2026-03-23",
             "severity": "medium",
             "author": "Eric",
             "createdAt": "2026-03-23T00:43:01.458Z",
-            "modifiedBy": "Valerie",
-            "modifiedAt": "2026-03-23T01:22:37.191Z"
+            "modifiedBy": "Eric",
+            "modifiedAt": "2026-03-23T03:21:32.681Z"
           }
         ],
         "insatisfaction": [
